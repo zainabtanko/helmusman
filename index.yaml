@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  usman:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-01T21:34:10.315228437Z"
+    description: A Helm chart for Kubernetes
+    digest: ddb10391a0c7fcb568d5efcea33a75e8148950059a01901609c4b7387d1a3f19
+    name: usman
+    type: application
+    urls:
+    - https://zainabtanko.github.io/helmusman/usman-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-01T21:34:10.31441278Z"
